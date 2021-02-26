@@ -1,0 +1,2 @@
+# Epitech_MSc_Pro_Semester_7_Project_Specifications
+Define our project
